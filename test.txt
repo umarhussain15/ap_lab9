@@ -1,0 +1,13 @@
+var a = 2
+var b=4
+var k=99
+print ( 1 + ( ( 2 + 3 ) * ( 4 * 5 ) ) )
+print (a*b)+(k)
+print b/a
+print a-b
+
+
+print (4 - 2) +5
+print ( 10/4 ) + 5 - 4
+print a*k
+print a-(5*k)
